@@ -820,6 +820,4 @@ class iFriendContactOrganizer{
 		homepage();
 	}
 } 
-											//GayashanIndrassankha©
-												//ICD109
-													//CourseWorkDay08
+							
